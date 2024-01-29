@@ -1,0 +1,52 @@
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Brady Code Challenge.exe
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Brady Code Challenge.deps.json
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Brady Code Challenge.runtimeconfig.json
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Brady Code Challenge.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Brady Code Challenge.pdb
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\Brady Code Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\Brady Code Challenge.AssemblyInfoInputs.cache
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\Brady Code Challenge.AssemblyInfo.cs
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\Brady Code Challenge.csproj.CoreCompileInputs.cache
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\Brady Code Challenge.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\refint\Brady Code Challenge.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\Brady Code Challenge.pdb
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\Brady Code Challenge.genruntimeconfig.cache
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\ref\Brady Code Challenge.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\ReferenceData.xml
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\System.Text.Json.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\Brady Code Challenge.csproj.AssemblyReference.cache
+D:\Coding\Brady Code Challenge\Brady Code Challenge\obj\Debug\net6.0\Brady Code Challenge.csproj.CopyComplete
+D:\Coding\Brady Code Challenge\Brady Code Challenge\bin\Debug\net6.0\config.json
